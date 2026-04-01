@@ -17,7 +17,7 @@ Home Appliances, Sports) and by region (East, North, South, West).
 
 - Dashboard Interaction <a href="https://github.com/fahamidamahi/Sale_Project_Excel/blob/master/Final%20Sales%20Dashboard.png">View Dashboard</a>
 ## Process 
-1️⃣ Data Import & Transformation (Power Query)
+<br>1️⃣ Data Import & Transformation (Power Query)
 - Imported raw datasets into Power Query
 - Cleaned and structured data
 - Handled inconsistencies and formatting issues
