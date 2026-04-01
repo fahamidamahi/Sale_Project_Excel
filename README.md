@@ -47,7 +47,7 @@ Home Appliances, Sports) and by region (East, North, South, West).
 - Developed a fully interactive reporting interface
 ## Dashboard
 <img width="1803" height="841" alt="Final Sales Dashboard" src="https://github.com/user-attachments/assets/02277d7f-44e4-4bf7-918b-75e2b31ac4a5" />
-##Business Insights Derived
+## Business Insights Derived
 - 2024 revenue outperformed 2023, showing strong growth.
 - Female customers contribute a higher percentage of total revenue.
 - The West region generates the highest revenue.
