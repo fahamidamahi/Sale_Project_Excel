@@ -45,3 +45,7 @@ Home Appliances, Sports) and by region (East, North, South, West).
           Age Group,
           Region,
 - Developed a fully interactive reporting interface
+## Dashboard
+<img width="1803" height="841" alt="Final Sales Dashboard" src="https://github.com/user-attachments/assets/02277d7f-44e4-4bf7-918b-75e2b31ac4a5" />
+
+
