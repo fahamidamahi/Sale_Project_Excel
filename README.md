@@ -53,7 +53,7 @@ Home Appliances, Sports) and by region (East, North, South, West).
 - The West region generates the highest revenue.
 - Certain age groups (25–34 and 55+) contribute significantly to total sales.
 - Revenue is higher on weekdays compared to weekends.
-## Conclusion:
+## Conclusion 
 The dashboard delivers a clear view of sales performance, highlighting strong year-over-year growth driven by key customers, products, and regions. It enables quick identification of trends, top contributors, and revenue patterns, supporting effective data-driven decision-making.
 
 
