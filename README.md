@@ -47,5 +47,13 @@ Home Appliances, Sports) and by region (East, North, South, West).
 - Developed a fully interactive reporting interface
 ## Dashboard
 <img width="1803" height="841" alt="Final Sales Dashboard" src="https://github.com/user-attachments/assets/02277d7f-44e4-4bf7-918b-75e2b31ac4a5" />
+##Business Insights Derived
+- 2024 revenue outperformed 2023, showing strong growth.
+- Female customers contribute a higher percentage of total revenue.
+- The West region generates the highest revenue.
+- Certain age groups (25–34 and 55+) contribute significantly to total sales.
+- Revenue is higher on weekdays compared to weekends.
+## Conclusion:
+The dashboard delivers a clear view of sales performance, highlighting strong year-over-year growth driven by key customers, products, and regions. It enables quick identification of trends, top contributors, and revenue patterns, supporting effective data-driven decision-making.
 
 
