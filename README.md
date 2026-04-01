@@ -16,3 +16,29 @@ gender, and revenue breakdown by age segments.
 Home Appliances, Sports) and by region (East, North, South, West).
 
 - Dashboard Interaction <a href="https://github.com/fahamidamahi/Sale_Project_Excel/blob/master/Final%20Sales%20Dashboard.png">View Dashboard</a>
+## Process 
+1️⃣ Data Import & Transformation (Power Query)
+- Imported raw datasets into Power Query
+- Cleaned and structured data
+- Handled inconsistencies and formatting issues
+- Created new columns from existing columns
+- Transformed date fields for time-based analysis
+2️⃣ Data Modeling
+- Established relationships between:
+- Sales ↔ Customer (via Customer ID)
+- Sales ↔ Product (via Product ID)
+- Built a structured data model inside Excel
+3️⃣ Analysis Layer
+- Created Pivot Tables from the data model
+- Applied calculated metrics and aggregations
+- Designed KPI summaries
+4️⃣ Visualization & Dashboard
+- Built interactive Pivot Charts
+- Designed dynamic dashboard layout
+- Implemented Slicers for filtering:
+          Month
+          Category
+          Gender
+          Age Group
+          Region
+- Developed a fully interactive reporting interface
